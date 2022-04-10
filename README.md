@@ -11,3 +11,6 @@ L'optimisation des modèles se trouve dans le dossier OptimisationAndTuning avec
 - Le dossier 3. AdamOptim pour le tuning d'hyperparamètres avec optimiseur Adam
 - Le dossier 4. Data Augmentées pour l'apprentissage avec data auglentation
 - Le dossier 5. Voting Classifier pour l'implémentation des différents votin classifier
+
+# Data Augmentation :
+Le fichier OK_DataAugmentation.ipynb est le fichier que nous avons utilisé pour générer le dataset de données augmentées.
